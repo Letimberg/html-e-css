@@ -1,0 +1,17 @@
+#topo ul, a {
+  height: 75px;
+  width: 100%;
+  background-color: red;
+}
+
+#corpo .noticias .noticia {
+  width: 100%;
+  background-color: gray;
+
+}
+
+#rodape {
+  height: 60px;
+  width: 100%;
+  background-color: red;
+}

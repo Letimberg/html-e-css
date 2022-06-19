@@ -1,0 +1,39 @@
+* {
+  background-color: #7159c1;
+}
+
+#div1 {
+  width: 200px;
+  height: 200px;
+  border: solid 3px white;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  box-shadow: 10px 10px 10px 5px black
+}
+
+#div2 {
+  width: 200px;
+  height: 200px;
+  border: solid 3px white;
+  margin-bottom: 20px;
+  border-radius: 0px 20px 0px 20px;
+}
+
+#div3 {
+  width: 100px;
+  height: 200px;
+  border-width: 10px;
+  border-image: url(img/front05.png) 30 30 repeat;
+  -moz-border-image: url(img/front05.png) 30 30 repeat;
+  /* Firefox */
+  -webkit-border-image: url(img/front05.png) 30 30 stretch;
+  /* Safari e Chrome */
+  -o-border-image: url(img/front05.png) 30 30 repeat;
+  /* Opera */
+
+}
+
+
+h1 {
+  color: white;
+}

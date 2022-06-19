@@ -1,0 +1,35 @@
+h3 {
+  margin-top: 16px;
+  margin-bottom: 16px;
+  margin-right: 40px;
+  margin-left: 0px;
+
+
+}
+
+blockquote {
+  padding: 40px;
+  margin: 0;
+  border: 50px solid #000;
+}
+
+p {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 25px;
+
+  border-top-width: thick;
+  border-bottom-width: 5px;
+  border-left-width: 25px;
+  border-right-width: 50px;
+  border-style: dotted;
+  border-color: red;
+
+  border-width: 4px;
+  border-top-color: black;
+  border-bottom-color: blue;
+  border-left-color: red;
+  border-right-color: green;
+
+}
