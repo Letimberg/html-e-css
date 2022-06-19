@@ -1,0 +1,22 @@
+.destaque-azul {
+  color: #018682;
+}
+
+span {
+  color: #018682;
+}
+
+p {
+  font-size: 18px;
+  color: #ff2200;
+  text-align: center;
+  line-height: 28px;
+}
+
+a {
+  background-color: #bd4338;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
